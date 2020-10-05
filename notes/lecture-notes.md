@@ -66,3 +66,7 @@ tracert yuba.stanford.edu
 
 ![image-20200925140656362](../images/image-20200925140656362.png)
 
+## wk2
+
+
+

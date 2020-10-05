@@ -19,8 +19,10 @@ cs144_2020
 ```bash
 cd build
 cmake ..
-make
-make check_lab0
+make format #to normalize the coding style
+make #to make sure the code compiles
+#make -j2
+make check_lab0 #to make sure the automated tests pass
 ```
 
 
